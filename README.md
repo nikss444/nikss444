@@ -12,4 +12,3 @@
 
 • Telegram: [@niks_lss](https://t.me/niks_lss) (предпочтительно)    
 • Почта: veronikapirog@mail.ru 
-# nikss_lss
