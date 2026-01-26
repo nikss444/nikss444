@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Привет! Я Вероника
 
-<!--
-**nikss444/nikss444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студентка | Обучаюсь в ГБПОУ МО
+Люберецкий техникум
+имени Героя Советского Союза,
+лётчика-космонавта Ю. А. Гагарина
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤝 Связь и соцсети
+Я всегда открыта для обмена опытом, обсуждения проектов или совместной подготовки к собеседованию!
+
+• Telegram: [@niks_lss](https://t.me/niks_lss) (предпочтительно)    
+• Почта: veronikapirog@mail.ru 
+# nikss_lss
