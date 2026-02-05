@@ -11,7 +11,7 @@
 ####  Связь и соцсети
 Я всегда открыта для обмена опытом, обсуждения проектов или совместной подготовки к собеседованию!
 
-    <a href="https://t.me/nikss_lss">
+<a href="https://t.me/nikss_lss">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 • Почта: veronikapirog@mail.ru 
